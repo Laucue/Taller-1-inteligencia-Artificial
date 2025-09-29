@@ -50,7 +50,4 @@ El problema de las N Reinas consiste en colocar N reinas en un tablero de ajedre
 - **Escalabilidad**: Funciona eficientemente hasta N=20
 - **Convergencia**: Alta probabilidad de encontrar solución perfecta para N≤16
 
----
-
-**Desarrollado con ❤️ usando Flask y algoritmos evolutivos**
 
